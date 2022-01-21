@@ -1,5 +1,5 @@
 # UAS-BASISDATAORACLE
-#Impelementasikan study kasus yang telah dipilih dengan database Oracle ke dalam
+# Impelementasikan study kasus yang telah dipilih dengan database Oracle ke dalam
 sebuah sistem minimal ada.
 
 1. Ada halaman utama / dashboard
