@@ -1,6 +1,6 @@
 # UAS-BASISDATAORACLE
 # Impelementasikan study kasus yang telah dipilih dengan database Oracle ke dalam sebuah sistem minimal ada.
-
+# Link Youtube
 1. Ada halaman utama / dashboard
 ![grabilla Uh9392](https://user-images.githubusercontent.com/45527370/145920758-7135ebde-c4b0-4b03-9c7a-526999d17c4b.png)
 
