@@ -78,13 +78,6 @@ Membuat Insert Data
   ![berhasilsupp](https://user-images.githubusercontent.com/45527370/147399914-f5fcd61c-25df-4db0-bd62-2db9cf5430c6.png)
   ![selesaisupp](https://user-images.githubusercontent.com/45527370/147399920-771d3f02-3d76-4a4b-a34b-04969d942b02.png)
 
-2. Data Transaksi
-  
-  a. Insert Data Transaksi
-  ![grabilla Uh1324](https://user-images.githubusercontent.com/45527370/149371489-30f9e900-aa5e-4766-969f-ef91551a639d.png)
-  ![berhasiltambah3](https://user-images.githubusercontent.com/45527370/149175253-34c5365d-d571-4594-8a33-b05252bb9634.png)
-  ![grabilla q11404](https://user-images.githubusercontent.com/45527370/149371528-6e25bd5e-41a2-4a25-87f6-253d14c72628.png)
-
  # Delete Data
   a. Delete Data Kasir
   
